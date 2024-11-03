@@ -1,0 +1,23 @@
+title: Kevin Kernegger
+description: Founder of instructa.ai, macherjek gmbh, and studioslevin.com
+socials:
+  - name: Twitter
+    url: https://twitter.com/kregenrek
+    icon: i-simple-icons-twitter
+  - name: Instagram
+    url: https://www.instagram.com/slevin.regenrek
+    icon: i-simple-icons-instagram
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/kevin-kernegger
+    icon: i-simple-icons-linkedin
+
+projects:
+  - name: instructa.ai
+    description: AI Course Platform
+    url: https://instructa.ai
+  - name: macherjek gmbh
+    description: Digital Agency
+    url: https://macherjek.at
+  - name: studioslevin.com
+    description: Creative Studio
+    url: https://studioslevin.com
