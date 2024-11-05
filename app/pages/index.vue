@@ -218,7 +218,7 @@ definePageMeta({
             href="https://bsky.app/profile/kevinkern.dev"
             target="_blank"
             class="text-sm block hover:underline"
-            >↳ LinkedIn</a
+            >↳ Bluesky</a
           >
         </p>
         <br /><br />
