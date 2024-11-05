@@ -48,8 +48,7 @@ definePageMeta({
           <br />
 
           When I'm not building tech, you'll find me doing Crossfit or carving
-          down Alpine slopes with my carving down Alpine slopes with my
-          snowboard.
+          down Alpine slopes.
 
           <br />
           <br />
