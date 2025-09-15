@@ -27,6 +27,7 @@ export default defineNuxtConfig({
   plausible: {
     // Prevent tracking on localhost
     ignoredHostnames: ["localhost"],
+    apiHost: "https://analytics.int.macherjek.com",
   },
 
   typescript: {
